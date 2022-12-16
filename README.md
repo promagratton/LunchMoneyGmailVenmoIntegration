@@ -12,6 +12,6 @@ Usage:
 
     Run the program in a terminal
 
-WARNING:
+<b>WARNING:</b>
 
     I am a very beginner developer and can therefore not guaruntee the saftey of this program. To my knowledge it is all localized so there should be minimal risk but keep in mind this is not a vetted program and therefore may be faulty. Use at your own risk.
