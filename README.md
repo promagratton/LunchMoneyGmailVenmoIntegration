@@ -1,4 +1,4 @@
-<h2>LunchMoneyGmailVenmoIntegration is exactly how it sounds. The Venmo integration utilizes the <a href 'https://developers.google.com/gmail/api?hl=en_US'> Gmail API </a> to read through the users messages for Venmo transaciton info, then uses the <a href = 'https://github.com/juftin/lunchable#installation'> Lunachable library </a> to send transaction data to the users LunchMoney transactions.</h2>
+<h2>LunchMoneyGmailVenmoIntegration is exactly how it sounds. The Venmo integration utilizes the <a href='https://developers.google.com/gmail/api?hl=en_US'> Gmail API </a> to read through the users messages for Venmo transaciton info, then uses the <a href = 'https://github.com/juftin/lunchable#installation'> Lunachable library </a> to send transaction data to the users LunchMoney transactions.</h2>
 
 <b>Usage:</b>
 
