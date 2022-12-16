@@ -1,0 +1,8 @@
+*.txt
+*.html
+*.js
+token.json
+credentials.json
+LMtoken.json
+practiceSoup.py
+quickstart.py
